@@ -25,7 +25,6 @@ A simple and interactive **Question & Answer web app** built using **Streamlit**
 
 ## 📁 Project Structure
 
-```
 project/
 │── app.py
 │── requirements.txt
@@ -39,6 +38,12 @@ project/
 3. Gemini model generates a response
 4. Output parser converts response to plain text
 5. Streamlit displays the answer
+
+---
+
+# 🤖 Streamlit App Link 
+
+https://gemini-q-a-application.streamlit.app/
 
 ---
 
